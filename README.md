@@ -261,18 +261,6 @@ E-commerce_SQL_Capstone_Project/
 └── All_Project_details(1).pdf
 ```
 
----
-
-# 📄 Project Documentation
-
-The complete SQL analysis and queries are available in the project report:
-
-**[📄 View Complete SQL Project Report](./All_Project_details%281%29.pdf)**
-
-The report contains the SQL queries used for KPI calculations, sales analysis, country/city analysis, channel analysis, product/category analysis and profitability analysis.
-
----
-
 # 🎯 Project Outcome
 
 This project demonstrates the use of **MySQL and SQL for real-world business data analysis**.
